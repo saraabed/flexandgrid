@@ -22,7 +22,7 @@ body{
     display: flex;
     flex-direction: column;
     flex-basis:40% ;
-    height: 63.7%;
+    height: 64%;
     gap: 10px 5px;
     
 }
@@ -34,7 +34,7 @@ body{
 }
 .sidebar{
     background-color:red;
-    flex-basis: 57.4%;
+    flex-basis: 57%;
 
     
 }
@@ -42,22 +42,22 @@ body{
 .two{
     display: flex;
     flex-direction: column;
-    flex-basis: 59.27%;
-    height: 63.7%;
+    flex-basis: 59%;
+    height: 65%;
     gap: 10px;
     
 }
 
 .main-content{
     background-color:yellow;
-    flex-basis: 71%;
+    flex-basis: 70%;
 
 
     
 }
 .extra-content{
     background-color: pink;
-    flex-basis: 29%;
+    flex-basis: 30%;
 
 
 
@@ -66,7 +66,7 @@ body{
 .related-images{
     background-color:brown;
     flex-basis: 70%;
-    height: 18.2%;
+    height: 18%;
  
 
 }
@@ -74,7 +74,7 @@ body{
 .related-posts{
     background-color: red;
     flex-basis: calc(30% - 5px);
-    height: 18.2%;
+    height: 18%;
 }
 .footer1{
     background-color: rgb(44, 126, 56);
